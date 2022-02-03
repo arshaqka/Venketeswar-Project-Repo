@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-Hello from server, Hai hello
+Hello from server Hi Shjeer!
 =======
 hi
 >>>>>>> bd59a19b212fd8c48d6d9c41962cc2294c3250f3
